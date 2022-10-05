@@ -8,4 +8,4 @@ The RAM normally located at E000 can then be mapped to the second bank of 4k giv
 
 The .rar file contains the plot & drill files that can be uploaded to sites such as JCLPBC for production. The remaining files are Kicad files of the board.
 
-Also included is a PCB for a three slot riser card so that the EPROM card and the Cassette interface can be fitted inside the case (given sufficient headroom). This card does not include any buffering and has not been tested with three cards installed.
+Also included is a PCB for a two slot riser card so that the EPROM card and the Cassette interface can be fitted inside the case (given sufficient headroom). This card does not include any buffering but has been tested with an EPROM card and an ACI card installed.
