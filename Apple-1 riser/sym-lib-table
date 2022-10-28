@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name Apple-1-riser-rescue)(type Legacy)(uri "${KIPRJMOD}/Apple-1 riser-rescue.lib")(options "")(descr ""))
-)
